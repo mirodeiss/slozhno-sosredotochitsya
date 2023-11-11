@@ -371,12 +371,6 @@
     flex-direction: column;
   }
 
-  .gallery__images {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-
-  }
 }
 
 @media (width < 500px) {
